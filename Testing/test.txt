@@ -1,6 +1,13 @@
 This is just a test text file for git practise.
 This file also has all testing haskell files.
 
+Making Git --
+sudo apt-get install git
+Give computer password.
+-- Builds --
+Either browse to github.com and create a repository or 
+use already existing.
+
 Git pushing --
 
 git add [filename]
