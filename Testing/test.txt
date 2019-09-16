@@ -1,0 +1,9 @@
+This is just a test text file for git practise.
+This file also has all testing haskell files.
+
+Git pushing --
+
+git add [filename]
+git commit -m "comment"
+git remote add origin https://github.com/HelkalGit/Haskell.git
+git push -u origin master
